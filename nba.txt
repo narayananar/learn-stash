@@ -5,9 +5,14 @@ ggygvvg.
 hahaha
 this is uthej ra tuffelo!
 123
+<<<<<<< HEAD
+gfidfgjhdcjhchtghtrfhth
+123456789
+=======
 =======
 edited by nihanth again
 >>>>>>> Stashed changes
 =======
 edited by nihanth again
 >>>>>>> Stashed changes
+>>>>>>> 5bf6c13a4b0873766d12082e3f7a425f676397f5
